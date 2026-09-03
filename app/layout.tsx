@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   generator: 'Zimoba',
   icons: {
     icon: [
-      { url: '/icon.svg', type: 'image/svg+xml' },
+      { url: '/icon-dark-32x32.png', type: 'image/svg+xml' },
       { url: '/icon-dark-32x32.png', sizes: '32x32', type: 'image/png', media: '(prefers-color-scheme: light)' },
       { url: '/icon-dark-32x32.png', sizes: '32x32', type: 'image/png', media: '(prefers-color-scheme: dark)' },
     ],
